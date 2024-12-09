@@ -19,4 +19,4 @@ Posizionarsi all'interno della cartella /bin ed eseguire, su finestre di termina
 **java -cp .:$HOME/gestionale_Uni/lib/mysql-connector-j-9.1.0.jar gestionale_Uni.UniServerApp**  
 **java gestionale_Uni.StudentAdminOfficeSApp**  
 **java gestionale_Uni.StudentClientApp**  
-Per l'inserimento di nuovi esami, eseguire l'applicazione StudentAdminOfficeCApp.
+Per l'inserimento di nuovi esami, eseguire l'applicazione **StudentAdminOfficeCApp**.
