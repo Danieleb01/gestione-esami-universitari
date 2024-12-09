@@ -10,7 +10,7 @@ public class UniversityDB implements SQLDatabase
 {
     private Connection con;
     private static UniversityDB istance;  // Variabile per memorizzare l'unica istanza di UserDB
-    private final String dbUrl= "jdbc:mysql://192.168.56.1:3306/universita";  // URL per la connessione al DB
+    private final String dbUrl= "Database URL here";  // URL per la connessione al DB
     private static String user;
     private static String password;
     
