@@ -1,5 +1,5 @@
 # gestione-esami-universitari
-La seguente è un applicazione di un sistema client/server per la gestione degli esami universitari. È stata realizzata come progetto per l'esame del corso di Reti di calcolatori e Lab dell'università degli studi di Napoli Parthenope.
+La seguente è un applicazione di un sistema client/server per la gestione degli esami universitari. È stata realizzata come progetto per l'esame del corso di Reti di calcolatori e Lab dell'Università degli Studi di Napoli Parthenope.
 ## **Funzionalità**
 ### **Server universitario**
 - Gestione concorrente delle richieste;
